@@ -1,0 +1,9 @@
+export const virus_01 = require('./virus_01.png');
+export const coronavirus = require('./coronavirus.png');
+export const handwash = require('./006-hand_wash.png');
+export const patient = require('./003-patient.png');
+export const calendar = require('./007-quarantine.png');
+export const vitamin = require('./028-vitamins.png');
+export const hospital = require('./032-hospital.png');
+export const desinfectant = require('./041-disinfectant.png');
+export const quarantine = require('./047-quarantine.png');
